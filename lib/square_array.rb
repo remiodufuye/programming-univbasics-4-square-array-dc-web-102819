@@ -13,7 +13,7 @@
   
  # p square_value
  
-end
+# end
 
 
 def square_array(ary)
